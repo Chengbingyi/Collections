@@ -1,6 +1,6 @@
 # 常用网址
 
-[GitHub](https://github.com/))
+[GitHub](https://github.com/)
 
 ## 1. 图像处理
 * [Openmv|星瞳科技](https://singtown.com/openmv/)
@@ -35,5 +35,5 @@
 
 
 ## 7.网站导航
-* [世界纳]([世界纳 (kguowai.com)](http://kguowai.com/))
+* [世界纳(世界纳 (kguowai.com)](http://kguowai.com/)
 
