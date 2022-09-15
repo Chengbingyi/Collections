@@ -16,6 +16,8 @@
 * [IT柚子网](https://ityouzi.com/archives/category/develop/%e5%ad%a6%e4%b9%a0%e8%b5%84%e6%96%99)
 * **[菜鸟教程(菜鸟教程 - 学的不仅是技术，更是梦想！ (runoob.com)](https://www.runoob.com/)**
 * **[HTML标签大全](https://www.w3school.com.cn/tags/index.asp)**
+
+
 ## 3. 单片机
 * [MDK pack](https://www.keil.com/dd2/pack/)
 * [意法半导体(意法半导体STM | STM32/STM8微控制器 | MCU单片机 (stmcu.com.cn)](https://www.stmcu.com.cn/video/2199)
@@ -30,8 +32,8 @@
 
 ## 6. 其他
 * [深澜软件](http://10.253.0.100/srun_portal_success?ac_id=5&ssid=iCJLU&theme=basic1&url=http%3A%2F%2F10.253.0.100%2Fsrun_portal_success%3Fac_id%3D5%26ssid%3DiCJLU%26theme%3Dbasic1%26url%3Dhttp%253A%252F%252Fedge-http.microsoft.com%252Fcaptiveportal%252Fgenerate_204%26srun_domain%3D)
-
 * Pornhub
+* [OpenAPI](https://www.openapis.org/)
 
 
 ## 7.网站导航
