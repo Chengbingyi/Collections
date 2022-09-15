@@ -1,7 +1,6 @@
 # 常用网址
 
-
-[GitHub]([GitHub](https://github.com/))
+[GitHub](https://github.com/))
 
 ## 1. 图像处理
 * [Openmv|星瞳科技](https://singtown.com/openmv/)
@@ -15,12 +14,12 @@
 * [C语言中文网](http://c.biancheng.net/cpp/)
 * [PYTHON中文网](https://www.python-china.com/)
 * [IT柚子网](https://ityouzi.com/archives/category/develop/%e5%ad%a6%e4%b9%a0%e8%b5%84%e6%96%99)
-* **[菜鸟教程]([菜鸟教程 - 学的不仅是技术，更是梦想！ (runoob.com)](https://www.runoob.com/))**
+* **[菜鸟教程(菜鸟教程 - 学的不仅是技术，更是梦想！ (runoob.com)](https://www.runoob.com/)**
 * **[HTML标签大全](https://www.w3school.com.cn/tags/index.asp)**
 ## 3. 单片机
 * [MDK pack](https://www.keil.com/dd2/pack/)
-* [意法半导体([意法半导体STM | STM32/STM8微控制器 | MCU单片机 (stmcu.com.cn)](https://www.stmcu.com.cn/video/2199))
-* [微行工作室([MiniSTM32H7xx: STM32H750VBT6/STM32H743VIT6 核心板 图像处理 兼容OpenMV Github 镜像仓库 (gitee.com)])](https://gitee.com/WeAct-TC/MiniSTM32H7xx))
+* [意法半导体(意法半导体STM | STM32/STM8微控制器 | MCU单片机 (stmcu.com.cn)](https://www.stmcu.com.cn/video/2199)
+* [微行工作室(MiniSTM32H7xx: STM32H750VBT6/STM32H743VIT6 核心板 图像处理 兼容OpenMV Github 镜像仓库 (gitee.com)](https://gitee.com/WeAct-TC/MiniSTM32H7xx)
 * [野火](https://doc.embedfire.com/products/link/zh/latest/index.html)
 
 ## 4. 软件网站
