@@ -6,6 +6,8 @@
 * [Openmv|星瞳科技](https://singtown.com/openmv/)
 * [Openmv嵌入式图像处理教程](https://book.openmv.cc/)
 * [Opncv](https://opencv.org/)
+* [Openmv星瞳文档](https://book.openmv.cc/image/sensor.html)
+* [MicroPython openmv V1.15](https://docs.openmv.io/)
 
 ## 2. 多功能学习网站
 * [rutracker(俄罗斯)](https://rutracker.net/forum/index.php)
