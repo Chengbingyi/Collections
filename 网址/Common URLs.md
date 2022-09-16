@@ -18,6 +18,7 @@
 * [IT柚子网](https://ityouzi.com/archives/category/develop/%e5%ad%a6%e4%b9%a0%e8%b5%84%e6%96%99)
 * **[菜鸟教程(菜鸟教程 - 学的不仅是技术，更是梦想！ (runoob.com)](https://www.runoob.com/)**
 * **[HTML标签大全](https://www.w3school.com.cn/tags/index.asp)**
+* **[菜鸟html5参考手册](https://www.runoob.com/tags/html-reference.html)
 
 
 ## 3. 单片机
@@ -40,4 +41,3 @@
 
 ## 7.网站导航
 * [世界纳(世界纳 (kguowai.com)](http://kguowai.com/)
-
